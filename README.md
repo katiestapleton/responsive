@@ -1,1 +1,1 @@
-# responsive
+# Bootstrap Responsive Grid Demo
